@@ -1,0 +1,10 @@
+$ apt update&&upgrade
+$ pkg install git
+  {do you want continune (Y/N)} Y
+$ apt install python  
+   {do you want continune (Y/N)} Y  
+$ git clone https://github.com/vpphacker/vppbasic
+$ ls
+$ chmod +x * 
+$ ls
+$ python vppbasic.py
